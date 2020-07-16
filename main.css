@@ -1,0 +1,20 @@
+html{
+    background-color: #ffffff;
+}
+
+h1{
+    font-size: 65px;
+}
+
+h2{
+    background-color: #dfaf2d;
+    color: #ffffff;
+    font-size: 30px;
+    width: 20%;
+    padding: 20px;
+}
+
+.title{
+    font-size: 80px;
+}
+
